@@ -1,0 +1,3 @@
+/database/data/db/*.lock
+/database/data/db/diagnostic.data
+*.lock
